@@ -1,0 +1,24 @@
+.photo__card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    padding:15px;
+    margin:15px;
+    box-shadow: 2px 2px 9px 5px grey;
+    border-radius: 15px;
+
+}
+
+@media only screen and (max-width: 1100px) {
+    .photo__card {
+        width: 40%;
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    .photo__card {
+        width: 50%;
+    }
+  }

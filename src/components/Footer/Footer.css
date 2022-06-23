@@ -1,0 +1,15 @@
+.footer {
+    background: rgb(20, 20, 20);
+    color: whitesmoke; 
+    padding: 30px 0;
+    position:relative;
+left:0;
+bottom:0;
+right:0;
+
+}
+
+.footer__inner{
+    display: flex;
+    justify-content: space-between;
+}

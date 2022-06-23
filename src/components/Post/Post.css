@@ -1,0 +1,14 @@
+.post{
+    /* border: 1px solid red; */
+    padding: 15px 5px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background: whitesmoke;
+}
+
+.post__title {
+    text-align: center;
+  text-transform: capitalize;  
+  font-weight: bold;
+  font-size: 17px;
+}
